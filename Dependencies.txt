@@ -1,0 +1,5 @@
+Poetry
+mysql-connector-python
+pymysql
+libreoffice
+unoconv
