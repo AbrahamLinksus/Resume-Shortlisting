@@ -12,13 +12,13 @@ body {
     align-items: center;
     justify-content: center;
     height: 100vh;
-    background-color: #f5f5f5;
+    background-color: #F4C89C;
 }
 
 /* Navigation Bar */
 .section-nav {
     background-color: #333;
-    color: beige;
+    color: white;
     display: flex;
     justify-content: space-between;
     align-items: center;
