@@ -1,4 +1,4 @@
-/* Reset default styles */
+
 * {
     margin: 0;
     padding: 0;
@@ -12,7 +12,7 @@ body {
     align-items: center;
     justify-content: center;
     height: 100vh;
-    background-color: #F4C89C;
+    background-color: black;
 }
 
 /* Navigation Bar */
@@ -49,35 +49,3 @@ body {
     color: #ff9800;
 }
 
-/* Upload Section */
-.upload-container {
-    text-align: center;
-    margin-top: 80px;
-}
-
-.upload-text {
-    font-size: 24px;
-    font-weight: bold;
-    margin-bottom: 15px;
-}
-
-/* Hide default file input */
-input[type="file"] {
-    display: none;
-}
-
-/* Styled Upload Button */
-.upload-btn {
-    background-color: #ff9800;
-    color: white;
-    padding: 10px 20px;
-    border-radius: 5px;
-    cursor: pointer;
-    font-size: 18px;
-    transition: background 0.3s;
-    display: inline-block;
-}
-
-.upload-btn:hover {
-    background-color: #e68900;
-}
